@@ -22,13 +22,14 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 -Vue
 -Javascript
 -Node
--Quasar
+-Vite
+-Typescript
 ```
 
 ## Start the app in development mode (hot-code reloading, error reporting, etc.)
 
 ```bash
-quasar dev
+npm run dev
 ```
 
 ## Ejecutando las pruebas ⚙️
@@ -44,7 +45,7 @@ No se realizan las pruebas.
 _Agrega notas adicionales sobre como hacer deploy_
 
 ```bash
-quasar build
+npm run build
 ```
 
 ## Construido con 🛠️
@@ -53,15 +54,10 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 - [Node] - Node.
 - [Vue] - Framework Vue 3
-- [Quasar](https://quasar.dev/) - Quasar.
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://github.com/web-v2/09-quasar.git) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-### Customize the configuration
-
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+Por favor lee el [CONTRIBUTING.md](https://github.com/web-v2/10-regrabacion-vue-2024.git) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Versionado 📌
 
@@ -71,7 +67,7 @@ Usamos [SamirV](http://github.com/web-v2/) para el versionado. Para todas las ve
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-- **Samir Vergara V** - _Trabajo Inicial_ - [SamirV2](https://github.com/web-v2/09-quasar.git)
+- **Samir Vergara V** - _Trabajo Inicial_ - [SamirV2](https://github.com/web-v2/10-regrabacion-vue-2024.git)
 
 ## Licencia 📄
 
@@ -85,4 +81,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ---
 
-⌨️ con ❤️ por [SamirV2]('git remote add origin https://github.com/web-v2/name-proyect.git') 😊
+⌨️ con ❤️ por [SamirV2]('git remote add origin https://github.com/web-v2/10-regrabacion-vue-2024.git') 😊
